@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-03T14:24:55-08:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Team Quadcore, just assembled!</title><link href="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html" rel="alternate" type="text/html" title="Team Quadcore, just assembled!" /><published>2018-01-03T00:00:00-08:00</published><updated>2018-01-03T00:00:00-08:00</updated><id>http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout</id><content type="html" xml:base="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html">&lt;p&gt;We just started our rocket engine here! ;)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-08T07:55:19+09:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Interview with Soo Lee @ Google</title><link href="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html" rel="alternate" type="text/html" title="Interview with Soo Lee @ Google" /><published>2018-01-06T00:00:00+09:00</published><updated>2018-01-06T00:00:00+09:00</updated><id>http://localhost:4000/tech%20talk/2018/01/06/techtalk-1</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
+
+&lt;p&gt;What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q2&quot;&gt;Q2.&lt;/h1&gt;
+
+&lt;p&gt;In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Every company different, but in Google, how you did your job and OnSite interview are the conditions.
+Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q3&quot;&gt;Q3.&lt;/h1&gt;
+
+&lt;p&gt;After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q4&quot;&gt;Q4.&lt;/h1&gt;
+
+&lt;p&gt;Do major companies prefer full-stack engineers? Or prefer experts in one technical field?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I would like to know many things deeply, but I recommend doing various things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q5&quot;&gt;Q5.&lt;/h1&gt;
+
+&lt;p&gt;What is the difference between Google and IBM’s way of working?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The air is difference.
+Google is more dynamic than IBM because of age.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q6&quot;&gt;Q6.&lt;/h1&gt;
+
+&lt;p&gt;Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;q7&quot;&gt;Q7.&lt;/h1&gt;
+
+&lt;p&gt;How do company decide what I do after joining a company and assigning a team?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Most of the time, I will be interviewing the team I will be going to.
+Google and Facebook match a team after team meeting. They do not forcibly fill their team.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer? The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality. Q2. In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM? Every company different, but in Google, how you did your job and OnSite interview are the conditions. Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire. Q3. After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley. It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea. Q4. Do major companies prefer full-stack engineers? Or prefer experts in one technical field? I would like to know many things deeply, but I recommend doing various things. Q5. What is the difference between Google and IBM’s way of working? The air is difference. Google is more dynamic than IBM because of age. Q6. Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)? ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source. Q7. How do company decide what I do after joining a company and assigning a team? Most of the time, I will be interviewing the team I will be going to. Google and Facebook match a team after team meeting. They do not forcibly fill their team.</summary></entry><entry><title type="html">Team Quadcore, just assembled!</title><link href="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html" rel="alternate" type="text/html" title="Team Quadcore, just assembled!" /><published>2018-01-03T00:00:00+09:00</published><updated>2018-01-03T00:00:00+09:00</updated><id>http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout</id><content type="html" xml:base="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html">&lt;p&gt;We just started our rocket engine here! ;)&lt;/p&gt;
 
 &lt;p&gt;Team Quadcore just launched our team blog.&lt;/p&gt;
 
