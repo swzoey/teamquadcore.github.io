@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-08T10:05:33+09:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Interview with Soo Lee @ Google</title><link href="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html" rel="alternate" type="text/html" title="Interview with Soo Lee @ Google" /><published>2018-01-06T00:00:00+09:00</published><updated>2018-01-06T00:00:00+09:00</updated><id>http://localhost:4000/tech%20talk/2018/01/06/techtalk-1</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-10T20:51:18-08:00</updated><id>http://localhost:4000/</id><title type="html">Team Quadcore</title><subtitle>Project team on KMU Silicon Valley Bootcamp.</subtitle><author><name>Team Quadcore</name></author><entry><title type="html">Work Like a Developer &amp;amp; Intro to Terminal &amp;amp; Git</title><link href="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html" rel="alternate" type="text/html" title="Work Like a Developer &amp; Intro to Terminal &amp; Git" /><published>2018-01-09T00:00:00-08:00</published><updated>2018-01-09T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/09/git-meet-up.html">&lt;p&gt;&lt;img src=&quot;/assets/img/rithm1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/rithm2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;where&quot;&gt;Where&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;3338 17th Street Suite 100, San Francisco, CA 94110
+@&lt;a href=&quot;https://www.rithmschool.com/&quot;&gt;rithmschool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;when&quot;&gt;When&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tue, Jan 9, 2018 at 6:30 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;we-went-to-rithm-school-to-learn-git--terminal-commands&quot;&gt;We went to rithm school to learn git &amp;amp; terminal commands.&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Learn how developers work together and share code&lt;/li&gt;
+    &lt;li&gt;Become familiar with one of the most frequently used developer tools: the terminal&lt;/li&gt;
+    &lt;li&gt;Understand how to collaborate with developers using GitHub.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;1-about-terminal-commands&quot;&gt;1. About terminal commands&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pwd : print working directory
+cd : change directory
+ls : all the files on folder
+ls -l / ls -al / ls - a
+cd / : move to root
+cd ~ : move to home
+mkdir hello : make directory
+find hello : really quick check
+touch first.txt : create a file 
+cat first.txt : show contents in file
+echo : print the text
+echo hello &amp;gt; hello.txt
+echo Hello &amp;gt;&amp;gt; awesome.txt
+rm - rf : really delete!
+find hello : return file
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;2-about-git-commands&quot;&gt;2. About git commands&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init &amp;gt; make a new repository
+git add . (Stage-green)
+git commit -m “Create hello.txt” 
+
+[master (root-commit) 8094462] -&amp;gt; 8094462(identity) 
+
+git log : check commit
+git remote add origin ssh address (.git) : address is too hard to remember , just use origin!
+git push -u origin master
+
+
+-u : setting up the upstream
+origin : git sever repository
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;working (git add) &amp;gt;  staging (git commit -m) &amp;gt; commit&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Git helps taking a picture, tracking out code, and retrieving code easily!&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;Even though I’m already familiar with git &amp;amp; terminal command, it was a nice opportunity to truly perfect the work flow with git. Not much hard to understand I could learn easily. First meet-up was perfect! I really expect the rest of meet-up.
+        &lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;
+            fill it!
+        &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Where 3338 17th Street Suite 100, San Francisco, CA 94110 @rithmschool When Tue, Jan 9, 2018 at 6:30 PM We went to rithm school to learn git &amp;amp; terminal commands. Learn how developers work together and share code Become familiar with one of the most frequently used developer tools: the terminal Understand how to collaborate with developers using GitHub. 1. About terminal commands pwd : print working directory cd : change directory ls : all the files on folder ls -l / ls -al / ls - a cd / : move to root cd ~ : move to home mkdir hello : make directory find hello : really quick check touch first.txt : create a file cat first.txt : show contents in file echo : print the text echo hello &amp;gt; hello.txt echo Hello &amp;gt;&amp;gt; awesome.txt rm - rf : really delete! find hello : return file 2. About git commands git init &amp;gt; make a new repository git add . (Stage-green) git commit -m “Create hello.txt” [master (root-commit) 8094462] -&amp;gt; 8094462(identity) git log : check commit git remote add origin ssh address (.git) : address is too hard to remember , just use origin! git push -u origin master -u : setting up the upstream origin : git sever repository working (git add) &amp;gt; staging (git commit -m) &amp;gt; commit Git helps taking a picture, tracking out code, and retrieving code easily! REVIEW Seungwoo Jeong Even though I’m already familiar with git &amp;amp; terminal command, it was a nice opportunity to truly perfect the work flow with git. Not much hard to understand I could learn easily. First meet-up was perfect! I really expect the rest of meet-up. Hyeonggeun Eom fill it! Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Interview with Soo Lee @ Google</title><link href="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html" rel="alternate" type="text/html" title="Interview with Soo Lee @ Google" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/tech%20talk/2018/01/06/techtalk-1</id><content type="html" xml:base="http://localhost:4000/tech%20talk/2018/01/06/techtalk-1.html">&lt;h1 id=&quot;q1&quot;&gt;Q1.&lt;/h1&gt;
 
 &lt;p&gt;What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer?&lt;/p&gt;
 
@@ -55,7 +139,45 @@ Google is more dynamic than IBM because of age.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Most of the time, I will be interviewing the team I will be going to.
 Google and Facebook match a team after team meeting. They do not forcibly fill their team.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer? The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality. Q2. In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM? Every company different, but in Google, how you did your job and OnSite interview are the conditions. Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire. Q3. After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley. It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea. Q4. Do major companies prefer full-stack engineers? Or prefer experts in one technical field? I would like to know many things deeply, but I recommend doing various things. Q5. What is the difference between Google and IBM’s way of working? The air is difference. Google is more dynamic than IBM because of age. Q6. Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)? ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source. Q7. How do company decide what I do after joining a company and assigning a team? Most of the time, I will be interviewing the team I will be going to. Google and Facebook match a team after team meeting. They do not forcibly fill their team.</summary></entry><entry><title type="html">Team Quadcore, just assembled!</title><link href="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html" rel="alternate" type="text/html" title="Team Quadcore, just assembled!" /><published>2018-01-03T00:00:00+09:00</published><updated>2018-01-03T00:00:00+09:00</updated><id>http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout</id><content type="html" xml:base="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html">&lt;p&gt;We just started our rocket engine here! ;)&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Team Quadcore</name></author><category term="Tech Talk" /><summary type="html">Q1. What part of you do you think makes you hired in Google? What part of the interviewee do you see in detail if you are an interviewer? The person who perfoms good Phone and OnSite interview is the one with high priority. If the process of thinking is flexible, it is also strength of you. However, you should have no problem with personality. Q2. In Korea, Google Internship Recruit Program is now in progress. How is the recruitment of full-time employees after internships judged in major company like Google or IBM? Every company different, but in Google, how you did your job and OnSite interview are the conditions. Generally, conversion rate is 60% ~ 70%, so internships can be easy way to hire. Q3. After graduating from a Korean university, please let me know step by step what you have prepared to join a company in Silicon Valley. It began with a curiosity about the United States. I left my studies and went to PhD, but research did not fit my aptitude. I was interested in making service, so I dropped out and get a job. It would have been easier if I knew there was a way I could apply in Korea. Q4. Do major companies prefer full-stack engineers? Or prefer experts in one technical field? I would like to know many things deeply, but I recommend doing various things. Q5. What is the difference between Google and IBM’s way of working? The air is difference. Google is more dynamic than IBM because of age. Q6. Which type of awards are effective in hiring process in Google (e.g. ACM-ICPC)? ACM-ICPC, GitHub are effective in hiring process. There are recruiter who are only looking at open source. Q7. How do company decide what I do after joining a company and assigning a team? Most of the time, I will be interviewing the team I will be going to. Google and Facebook match a team after team meeting. They do not forcibly fill their team.</summary></entry><entry><title type="html">San Francisco Tour</title><link href="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html" rel="alternate" type="text/html" title="San Francisco Tour" /><published>2018-01-06T00:00:00-08:00</published><updated>2018-01-06T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2018/01/06/sv-sanfrancisco-tour.html">&lt;p&gt;&lt;img src=&quot;/assets/img/tour1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tou2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour3.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour4.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour5.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour6.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour7.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour8.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;local-market-is-held-every-weekend-in-front-of-ferry-building&quot;&gt;Local Market is held every weekend in front of Ferry Building.&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We visit it and taste some local food. After having lunch at Ziggy’s burger, we went to Coi tower and could see golden bridge &amp;amp; alcatraz because of the weather. There is the second largest Chinatown in Sanfrancisco. We felt like we are in China. It was a little tough day, but we had a good memory!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;our-route&quot;&gt;Our route&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Ferry Building(Local Market) &amp;gt; Ziggy’s burger &amp;gt; Coi Tower &amp;gt; China Town&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt;
+        &lt;dd&gt;We was supposed to go meet-up , but most attendees are 50-60s. So we decide to hang out by ourselves. It was great choice. We walked and went around from Ferry building to Union Square, the distance was really long, but I felt so good cause I always sit and do Mvp project. It was good to refresh my mind!
+    &lt;/dd&gt;
+    &lt;dt&gt;Minjun Cha&lt;/dt&gt;
+        &lt;dd&gt;was worried about the rain coming but the weather was very nice. We saw many local market in Ferry Building and experienced their atmosphere. Coi tower was very grand. It was hard to get there because it was too high. But it was nice experience. China town was an environment that made me misunderstand that I an in America. But I do not want to go again….
+    &lt;/dd&gt;
+    &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+        &lt;dd&gt;Ferry Building was more beautiful as I expected. Nice weather and delicious food perfectly supported my nice day. Also Coi Tower was enough to capture my mind. It was very hard journey, but It was good to me for organizing my thoughts. It was nice day!&lt;/dd&gt;
+    &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt;
+        &lt;dd&gt;The beach near the Ferry Building was really good. The weather was good and everything was perfect! The road from Ferry Building to Coi tower was extremly high and difficult. But, the landscape of arriving made me think that i didn’t waste my sweat.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">Local Market is held every weekend in front of Ferry Building. We visit it and taste some local food. After having lunch at Ziggy’s burger, we went to Coi tower and could see golden bridge &amp;amp; alcatraz because of the weather. There is the second largest Chinatown in Sanfrancisco. We felt like we are in China. It was a little tough day, but we had a good memory! Our route Ferry Building(Local Market) &amp;gt; Ziggy’s burger &amp;gt; Coi Tower &amp;gt; China Town REVIEW Seungwoo Jeong We was supposed to go meet-up , but most attendees are 50-60s. So we decide to hang out by ourselves. It was great choice. We walked and went around from Ferry building to Union Square, the distance was really long, but I felt so good cause I always sit and do Mvp project. It was good to refresh my mind! Minjun Cha was worried about the rain coming but the weather was very nice. We saw many local market in Ferry Building and experienced their atmosphere. Coi tower was very grand. It was hard to get there because it was too high. But it was nice experience. China town was an environment that made me misunderstand that I an in America. But I do not want to go again…. Seunghwan Hong Ferry Building was more beautiful as I expected. Nice weather and delicious food perfectly supported my nice day. Also Coi Tower was enough to capture my mind. It was very hard journey, but It was good to me for organizing my thoughts. It was nice day! Hyeonggeun Eom The beach near the Ferry Building was really good. The weather was good and everything was perfect! The road from Ferry Building to Coi tower was extremly high and difficult. But, the landscape of arriving made me think that i didn’t waste my sweat. Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry><entry><title type="html">Team Quadcore, just assembled!</title><link href="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html" rel="alternate" type="text/html" title="Team Quadcore, just assembled!" /><published>2018-01-03T00:00:00-08:00</published><updated>2018-01-03T00:00:00-08:00</updated><id>http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout</id><content type="html" xml:base="http://localhost:4000/mvp%20bootcamp/2018/01/03/hello-hydeout.html">&lt;p&gt;We just started our rocket engine here! ;)&lt;/p&gt;
 
 &lt;p&gt;Team Quadcore just launched our team blog.&lt;/p&gt;
 
@@ -63,4 +185,36 @@ Google and Facebook match a team after team meeting. They do not forcibly fill t
 
 &lt;p&gt;The theme of this blog is &lt;strong&gt;&lt;a href=&quot;https://github.com/fongandrew/hydeout&quot;&gt;Hydeout&lt;/a&gt;&lt;/strong&gt;. Hydeout updates the original &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Hyde&lt;/a&gt; theme for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; 3.x and adds new functionality.&lt;/p&gt;
 
-&lt;p&gt;Look forward to our future activities!&lt;/p&gt;</content><author><name>Team Quadcore</name></author><category term="MVP Bootcamp" /><summary type="html">We just started our rocket engine here! ;) Team Quadcore just launched our team blog. We will post about four categories here: MVP Bootcamp, Tech talk, SV experience, Career advancement. The theme of this blog is Hydeout. Hydeout updates the original Hyde theme for Jekyll 3.x and adds new functionality. Look forward to our future activities!</summary></entry></feed>
+&lt;p&gt;Look forward to our future activities!&lt;/p&gt;</content><author><name>Team Quadcore</name></author><category term="MVP Bootcamp" /><summary type="html">We just started our rocket engine here! ;) Team Quadcore just launched our team blog. We will post about four categories here: MVP Bootcamp, Tech talk, SV experience, Career advancement. The theme of this blog is Hydeout. Hydeout updates the original Hyde theme for Jekyll 3.x and adds new functionality. Look forward to our future activities!</summary></entry><entry><title type="html">Visit Youtube in San Bruno</title><link href="http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube.html" rel="alternate" type="text/html" title="Visit Youtube in San Bruno" /><published>2017-12-29T00:00:00-08:00</published><updated>2017-12-29T00:00:00-08:00</updated><id>http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube</id><content type="html" xml:base="http://localhost:4000/sv%20experiences/2017/12/29/visit-youtube.html">&lt;p&gt;&lt;img src=&quot;/assets/img/youtube1.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/youtube2.jpeg&quot; alt=&quot;Alt text&quot; /&gt;
+&lt;img src=&quot;/assets/img/tour9.jpeg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;we-visited-youtube-with-4-mentors-and-we-took-a-look-at-the-inside&quot;&gt;We visited Youtube with 4 mentors and we took a look at the inside.&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Donghyun Kim Mentor and Soohyun Lee Mentor showed how to collaborate with git in conference room. We learned how to use it by typing commands. Jeongeun Kim Mentor explained what PRD(program requirements document) is, both were really good time. Each of students conducted HR interviews in English while holding a meeting about team products. It was a good time to experience indirectly HR interviews in Silicon Valley, USA.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;REVIEW&lt;/h2&gt;
+
+&lt;dl&gt;
+ &lt;dt&gt;Seungwoo Jeong&lt;/dt&gt; 
+ &lt;dd&gt;&quot;It was really memorable moment. The second floor of Youtube was for UX designer and it looks really comfortable for work. In the dream office, I did also HR interview with Ethan Kim. I was so touched just I was there with google engineer. I am so grateful to the mentors for making this opportunity possible.&quot;&lt;/dd&gt;
+
+ &lt;dt&gt;Minjun Cha&lt;/dt&gt;  
+ &lt;dd&gt;&quot;First, I fascinated fantastic work space. Having a meeting in the YouTube meeting room was a very valuable experience. I really wanted to work. Also In and Out burger was very delicious hahahaha.&quot;&lt;/dd&gt;
+
+ &lt;dt&gt;Seunghwan Hong&lt;/dt&gt;
+ &lt;dd&gt;&quot;It was my dream office, and I was totally mind-blown. A cool office with a different and light atmosphere than Korea was enough to make me fascinate. The feeling I felt for that day will be remembered forever.&quot;&lt;/dd&gt;
+
+ &lt;dt&gt;Hyeonggeun Eom&lt;/dt&gt; 
+ &lt;dd&gt;&quot;It was much more amazing place than I imagined. I was overwhelmed by the atmosphere of a completely different office from the office full of partitions. I got the feeling that something was boiling in my mind!!!&quot;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Teamname&lt;/strong&gt; : Quadcore&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Leader&lt;/strong&gt; : Seungwoo Jeong&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Team Quadcore</name></author><category term="SV Experiences" /><summary type="html">We visited Youtube with 4 mentors and we took a look at the inside. Donghyun Kim Mentor and Soohyun Lee Mentor showed how to collaborate with git in conference room. We learned how to use it by typing commands. Jeongeun Kim Mentor explained what PRD(program requirements document) is, both were really good time. Each of students conducted HR interviews in English while holding a meeting about team products. It was a good time to experience indirectly HR interviews in Silicon Valley, USA. REVIEW Seungwoo Jeong &quot;It was really memorable moment. The second floor of Youtube was for UX designer and it looks really comfortable for work. In the dream office, I did also HR interview with Ethan Kim. I was so touched just I was there with google engineer. I am so grateful to the mentors for making this opportunity possible.&quot; Minjun Cha &quot;First, I fascinated fantastic work space. Having a meeting in the YouTube meeting room was a very valuable experience. I really wanted to work. Also In and Out burger was very delicious hahahaha.&quot; Seunghwan Hong &quot;It was my dream office, and I was totally mind-blown. A cool office with a different and light atmosphere than Korea was enough to make me fascinate. The feeling I felt for that day will be remembered forever.&quot; Hyeonggeun Eom &quot;It was much more amazing place than I imagined. I was overwhelmed by the atmosphere of a completely different office from the office full of partitions. I got the feeling that something was boiling in my mind!!!&quot; Teamname : Quadcore Leader : Seungwoo Jeong</summary></entry></feed>
